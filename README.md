@@ -1,1 +1,2 @@
 # Labyrinth
+This is a game that was created using Unity3d game engine and was mostly coded in C#. This game is inspired by the Greek Mythology myth of the Minotaur where you go through three different levels battling enemies. The first level is more of a tutorial level where you learn the combat and controls of the game. The next two levels have different traps that the player needs to avoid and upgrades to health and weaponry that the player can grab. The third level is where you actually fight the Minotaur. Once he is defeated you win the game.
